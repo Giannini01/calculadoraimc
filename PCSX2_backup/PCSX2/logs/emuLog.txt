@@ -1,0 +1,5 @@
+Loading language translation databases for 'Portuguese (Brazilian)' [pt_BR]
+	pcsx2_Main not found -- translation dictionary may be incomplete.
+	pcsx2_Iconized not found -- translation dictionary may be incomplete.
+SetLanguage: Requested translation is not implemented yet.
+Action canceled: Startup aborted: User canceled FirstTime Wizard.
